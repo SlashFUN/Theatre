@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\human.h(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\kasa.h(50): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\kasa.h(132): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\kasa.h(150): warning C4101: m: неиспользованная локальная переменная
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\hall.h(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\hall.h(81): warning C4101: m: неиспользованная локальная переменная
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\bar.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\bar.h(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\bar.h(146): warning C4101: m: неиспользованная локальная переменная
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\source.cpp(195): warning C4129: : неизвестная escape-последовательность
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\kasa.h(139): warning C4715: CKasa::getKases: значение возвращается не при всех путях выполнения
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\human.h(89): warning C4715: CVisitors::getCustomerName: значение возвращается не при всех путях выполнения
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\bar.h(135): warning C4715: CBar::getBars: значение возвращается не при всех путях выполнения
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\hall.h(70): warning C4715: CHall::getHalls: значение возвращается не при всех путях выполнения
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\kasa.h(57): warning C4715: CKasa::CSpectacle::getAfisha: значение возвращается не при всех путях выполнения
+c:\users\acer\documents\visual studio 2015\projects\kursova\kursova\bar.h(55): warning C4715: CBar::CProduction::getPriceList: значение возвращается не при всех путях выполнения
+  kursova.vcxproj -> C:\Users\Acer\documents\visual studio 2015\Projects\kursova\Debug\kursova.exe
+  kursova.vcxproj -> C:\Users\Acer\documents\visual studio 2015\Projects\kursova\Debug\kursova.pdb (Full PDB)
